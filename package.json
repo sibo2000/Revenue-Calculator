@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sibo2000/revenue-calculator/issues"
   },
-  "homepage": "https://github.com/sibo2000/revenue-calculator#readme"
+  "homepage": "https://github.com/sibo2000/revenue-calculator#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
