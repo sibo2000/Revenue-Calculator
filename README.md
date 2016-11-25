@@ -1,4 +1,7 @@
-# revenue-calculator
+# Revenue Calculator
+
+https://sibo2000.github.io/revenue-calculator/
+
 Useful for forecasting the outcome of multiple bets
 
 The app takes 5 inputs;
