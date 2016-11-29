@@ -1,6 +1,6 @@
 # Revenue Calculator
 
-https://sibo2000.github.io/revenue-calculator/
+https://sibo2000.github.io/Revenue-Calculator/
 
 Useful for forecasting the outcome of multiple bets
 
